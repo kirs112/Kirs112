@@ -1,16 +1,14 @@
-### Hi there 👋
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-<!--
-**Kirs654/Kirs654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Kirs
 
-Here are some ideas to get you started:
+- 一位网络安全爱好者
+- 🌱 攻防 && 安全开发 && 漏洞挖掘
+- 💬 一位已经躺平的靓仔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+> ***做技术的黑客心态加上开放共进的态度是成长和越过高山幽谷的秘籍😊!😊***
+
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Kirs654&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
